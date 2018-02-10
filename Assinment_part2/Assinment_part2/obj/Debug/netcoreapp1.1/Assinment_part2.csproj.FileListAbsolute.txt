@@ -1,0 +1,9 @@
+c:\users\harsh\documents\visual studio 2017\Projects\Assinment_part2\Assinment_part2\bin\Debug\netcoreapp1.1\Assinment_part2.deps.json
+c:\users\harsh\documents\visual studio 2017\Projects\Assinment_part2\Assinment_part2\bin\Debug\netcoreapp1.1\Assinment_part2.runtimeconfig.json
+c:\users\harsh\documents\visual studio 2017\Projects\Assinment_part2\Assinment_part2\bin\Debug\netcoreapp1.1\Assinment_part2.runtimeconfig.dev.json
+c:\users\harsh\documents\visual studio 2017\Projects\Assinment_part2\Assinment_part2\bin\Debug\netcoreapp1.1\Assinment_part2.dll
+c:\users\harsh\documents\visual studio 2017\Projects\Assinment_part2\Assinment_part2\bin\Debug\netcoreapp1.1\Assinment_part2.pdb
+c:\users\harsh\documents\visual studio 2017\Projects\Assinment_part2\Assinment_part2\obj\Debug\netcoreapp1.1\Assinment_part2.csprojResolveAssemblyReference.cache
+c:\users\harsh\documents\visual studio 2017\Projects\Assinment_part2\Assinment_part2\obj\Debug\netcoreapp1.1\Assinment_part2.AssemblyInfo.cs
+c:\users\harsh\documents\visual studio 2017\Projects\Assinment_part2\Assinment_part2\obj\Debug\netcoreapp1.1\Assinment_part2.dll
+c:\users\harsh\documents\visual studio 2017\Projects\Assinment_part2\Assinment_part2\obj\Debug\netcoreapp1.1\Assinment_part2.pdb
