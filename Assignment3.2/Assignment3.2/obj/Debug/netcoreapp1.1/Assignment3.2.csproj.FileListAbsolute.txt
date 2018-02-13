@@ -1,0 +1,9 @@
+c:\users\harsh\documents\visual studio 2017\Projects\Assignment3.2\Assignment3.2\bin\Debug\netcoreapp1.1\Assignment3.2.deps.json
+c:\users\harsh\documents\visual studio 2017\Projects\Assignment3.2\Assignment3.2\bin\Debug\netcoreapp1.1\Assignment3.2.runtimeconfig.json
+c:\users\harsh\documents\visual studio 2017\Projects\Assignment3.2\Assignment3.2\bin\Debug\netcoreapp1.1\Assignment3.2.runtimeconfig.dev.json
+c:\users\harsh\documents\visual studio 2017\Projects\Assignment3.2\Assignment3.2\bin\Debug\netcoreapp1.1\Assignment3.2.dll
+c:\users\harsh\documents\visual studio 2017\Projects\Assignment3.2\Assignment3.2\bin\Debug\netcoreapp1.1\Assignment3.2.pdb
+c:\users\harsh\documents\visual studio 2017\Projects\Assignment3.2\Assignment3.2\obj\Debug\netcoreapp1.1\Assignment3.2.csprojResolveAssemblyReference.cache
+c:\users\harsh\documents\visual studio 2017\Projects\Assignment3.2\Assignment3.2\obj\Debug\netcoreapp1.1\Assignment3.2.AssemblyInfo.cs
+c:\users\harsh\documents\visual studio 2017\Projects\Assignment3.2\Assignment3.2\obj\Debug\netcoreapp1.1\Assignment3.2.dll
+c:\users\harsh\documents\visual studio 2017\Projects\Assignment3.2\Assignment3.2\obj\Debug\netcoreapp1.1\Assignment3.2.pdb
